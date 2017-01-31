@@ -20,7 +20,7 @@
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .myhead{ background-color: #01579b; }
+    .myhead{ background-color: #00b8d4; }
     .myhead { background-image: none;}
     .myhead { height: 10000px;}
     #ABOUTWRAPPER { margin-top: 1500px;}
