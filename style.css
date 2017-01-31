@@ -325,12 +325,12 @@ button{
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .myhead { background-image: none;}
+/*     .myhead { background-image: none;} */
     .iconz { height: 20px;
               width: 20px;
               margin: 0px; }
     .footer{ height: 80px; }
     .mytitle{ padding-top:  0px;
           }
-    .myhead{ background-color: #00b8d4; }
+/*     .myhead{ background-color: #00b8d4; } */
 }
