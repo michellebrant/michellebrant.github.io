@@ -23,7 +23,7 @@
     .myhead { width: 100%; }
     .myhead { background: url('BKBridge.jpg') ; }
     .myhead { position:  absolute; }
-    #ABOUTWRAPPER{   position: absolute; }
+    #ABOUTWRAPPER{   width:100%;}
 }
 
 #ABOUTWRAPPER{
