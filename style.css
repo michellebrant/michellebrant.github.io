@@ -23,9 +23,9 @@
     .myhead { height: 10000px; }
 /*     .myhead { background: no-repeat center; }
     .myhead { width: 100%; }
-    .myhead { background: url('BKBridge.jpg') ; }
+    .myhead { background: url('BKBridge.jpg') ; } */
     .myhead { position:  absolute; }
-    #ABOUTWRAPPER{   width:100%;}
+/*     #ABOUTWRAPPER{   width:100%;}
     #ABOUTWRAPPER{   margin:0 auto;} */
 
 }
