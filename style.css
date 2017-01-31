@@ -19,7 +19,7 @@
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .myhead { height: 10000px; }
+    .myhead { height: 1000px; }
     .myhead { position:  absolute; }
 /*     #ABOUTWRAPPER{   width: 100%; } */
 
