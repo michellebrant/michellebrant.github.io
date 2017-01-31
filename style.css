@@ -23,7 +23,7 @@
     .myhead {  background-size: contain;}
     .myhead {  background: url('BKbridge.jpg');}
     .myhead { height: 1000px; }
-
+    #ABOUTWRAPPER{   position: fixed; }
 }
 
 #ABOUTWRAPPER{
