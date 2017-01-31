@@ -21,12 +21,13 @@
   and (-webkit-min-device-pixel-ratio: 2) {
     .myhead { height: 1000px; }
     .myhead { background: linear-gradient(
-      rgba(0,0,0, .4),
-      rgba(0, 0, 0, .4); )}
+      rgba(0,0,0, .8),
+      rgba(0, 0, 0, .8); )}
     .myhead { width: 100%; }
     .myhead { background: url('BKBridge.jpg') ; }
     .myhead { position:  absolute; }
     #ABOUTWRAPPER{   width:100%;}
+    #ABOUTWRAPPER{   margin:0 auto;}
 }
 
 #ABOUTWRAPPER{
