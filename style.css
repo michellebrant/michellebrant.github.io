@@ -23,7 +23,8 @@
     .myhead{ background-color: #01579b; }
     .myhead { background-image: none;}
     .myhead { height: 10000px;}
-    #ABOUTWRAPPER { margin-top: 1000px;}
+    #ABOUTWRAPPER { margin-top: 1500px;}
+    #ABOUTWRAPPER { width: 100%;}
 
 }
 
