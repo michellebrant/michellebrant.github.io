@@ -329,9 +329,8 @@ button{
     .iconz { height: 20px;
               width: 20px;
               margin: 0px; }
-    .footer{ height: 100px; }
+    .footer{ height: 80px; }
     .mytitle{ padding-top:  0px;
           }
     .myhead{ background-color: #00b8d4; }
-    .learnmore{padding-top: 0px;}
 }
