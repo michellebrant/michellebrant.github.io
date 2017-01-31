@@ -22,7 +22,8 @@
   and (-webkit-min-device-pixel-ratio: 2) {
     .myhead {  background-size: contain;}
     .myhead { height: 1000px; }
-    #ABOUTWRAPPER{   position: fixed; }
+    .myhead { position:  absolute; }
+    #ABOUTWRAPPER{   position: absolute; }
 }
 
 #ABOUTWRAPPER{
