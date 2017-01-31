@@ -20,14 +20,14 @@
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
     .skills3{ background-color: #304ffe; }
-    .myhead { height: 1000px; }
+/*     .myhead { height: 1000px; }
     .myhead { background: no-repeat center; }
     .myhead { width: 100%; }
     .myhead { background: url('BKBridge.jpg') ; }
     .myhead { position:  absolute; }
     #ABOUTWRAPPER{   width:100%;}
     #ABOUTWRAPPER{   margin:0 auto;}
-
+ */
 }
 
 #ABOUTWRAPPER{
