@@ -22,11 +22,12 @@
   and (-webkit-min-device-pixel-ratio: 2) {
     .myhead{ background-color: #00b8d4; }
     .myhead { background-image: none;}
-    .links { height: 10px; }
-    .links { width: 10px; }
+    .links { height: 10px;
+              width: 10px; }
     .footer{ height: 100px; }
-    .mytitle{ padding-top:  0px; }
-    .mytitle{ font-size: 50px; }
+    .mytitle{ padding-top:  0px;
+              font-size: 50px; }
+
 
 }
 
