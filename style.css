@@ -16,7 +16,7 @@
 }
 
 
-@media only screen
+/* @media only screen
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
@@ -26,7 +26,7 @@
     #ABOUTWRAPPER { margin-top: 1500px;}
     #ABOUTWRAPPER { width: 100%;}
 
-}
+} */
 
 #ABOUTWRAPPER{
   background-color: white;
