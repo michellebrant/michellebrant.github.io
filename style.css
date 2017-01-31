@@ -4,6 +4,7 @@
       rgba(0,0,0, .4),
       rgba(0, 0, 0, .4)
     ), url("BKBridge.jpg") no-repeat center;
+  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -19,11 +20,10 @@
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .myhead { height: 1000px; }
-    .myhead { position:  absolute; }
-/*     #ABOUTWRAPPER{   width: 100%; } */
 
-  }
+
+
+}
 
 #ABOUTWRAPPER{
   background-color: white;
@@ -85,7 +85,7 @@ body{
   margin-top: 400px;
   padding-top: 50px;
   padding-bottom: 50px;
-/*   height: 600px;
+/*   height: 600px; */
   width: 100%;
 }
 .text3{
