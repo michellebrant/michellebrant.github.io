@@ -1,0 +1,283 @@
+.myhead{
+  background:
+  linear-gradient(
+      rgba(0,0,0, .4),
+      rgba(0, 0, 0, .4)
+    ), url("BKBridge.jpg") no-repeat 55%;
+  background-size: 150%;
+  height: 800px;
+  background-repeat: no-repeat;
+  position: fixed;
+  background-attachment: fixed;
+  width: 100%;
+}
+
+#ABOUTWRAPPER{
+  background-color: white;
+  position: relative;
+  margin-top: 800px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: stylish-color-dark;
+}
+
+.mytext{
+  padding-left: 15px;
+}
+
+html{
+  margin: 0 auto;
+}
+
+body{
+  margin: 0 auto;
+}
+
+.mytitle{
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 70px;
+}
+
+.dev{
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+
+}
+.desc{
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+
+}
+.special_m{
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.work{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: black;
+  background-color: white;
+  position: relative;
+  margin-top: 400px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+/*   height: 600px; */
+  width: 100%;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  position: fixed;
+}
+
+p{
+  margin-bottom: 10px;
+}
+
+.learnmore{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+
+.skills{
+  height: 400px;
+  text-align: center;
+  color: stylish-color-dark;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+.skills2{
+  margin-top: 50px;
+  color: stylish-color-dark;
+   font-family: 'Raleway', sans-serif;
+  // text-align: center;
+}
+
+.skills4{
+  color: stylish-color-dark;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1{
+  margin: 0 auto;
+}
+h2{
+  color: stylish-color-dark;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.about{
+  text-align: center;
+}
+.name{
+  font-size: 40px;
+  float: left;
+    color: stylish-color-dark;
+  font-family: 'Pacifico', cursive;
+  margin: 0 auto;
+  padding: 0px;
+}
+p{
+  color: stylish-color-dark;
+   font-family: 'Raleway', sans-serif;
+}
+ul{
+  list-style: none;
+  float: right;
+}
+li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 15px;
+    color: stylish-color-dark;
+     font-family: 'Raleway', sans-serif;
+}
+.me {
+    margin-left: 50px;
+    margin-top: 45px;
+}
+#aboutmebold{
+  font-weight: bold;
+}
+.myskills{
+  text-align: center;
+}
+.skills3{
+  background-color: white;
+  position: relative;
+  margin-top: 400px;
+  // padding-top: 100px;
+  padding-bottom: 100px;
+  height: 600px;
+}
+
+.tripcontainer{
+  background: url("mytrip.jpg") no-repeat 55%;
+  width: 502px;
+  height: 290px;
+  background-size: 100%;
+  padding: 10px;
+  margin:10px;
+}
+
+.foodcontainer{
+  background: url("foodlist.png") no-repeat 55%;
+  width: 351px;
+  height: 203px;
+  background-size: 100%;
+  margin:10px;
+
+}
+
+.mealcontainer{
+  background: url("mealplan.png") no-repeat 55%;
+  width: 351px;
+  height: 203px;
+  background-size: 100%;
+  margin:10px;
+
+}
+
+.messangercontainer{
+  background: url("messanger.png") no-repeat 55%;
+  width: 351px;
+  height: 203px;
+  background-size: 100%;
+  margin:10px;
+
+}
+
+.hover{
+  background:
+  linear-gradient(
+      rgba(0,0,0, .2),
+      rgba(0, 0, 0, .2)
+    );
+}
+
+.contact{
+
+  color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.logo{
+  position: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+
+img{
+  display: inline-block;
+}
+
+.contactdetails{
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+input{
+  width: 400px;
+}
+
+.bottom{
+  background-color:white;
+  position: fixed;
+}
+
+.hi{
+  height: 40px;
+  width: 40px;
+  margin: 40px;
+}
+
+button{
+  color:black;
+  font-family: 'Raleway', sans-serif;
+}
+
+.byemichelle{
+  font-size: 17px;
+  color: stylish-color-dark;
+}
+
+.himichelle{
+  font-size:20px;
+  color: stylish-color-dark;
+}
+
+.links{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  height: 50px;
+  width: 50px;
+  color: yellow;
+}
