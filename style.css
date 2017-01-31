@@ -4,7 +4,6 @@
       rgba(0,0,0, .4),
       rgba(0, 0, 0, .4)
     ), url("BKBridge.jpg") no-repeat center;
-  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,9 +19,9 @@
   and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    .myhead { height: 10000px; }
-    .myhead { width: 100%; }
-    .myhead { background: url('BKBridge.jpg'); }
+    .myhead { height: 5000px; }
+    .myhead { width: 375px; }
+    .myhead { background: url('BKBridge.jpg') ; }
     .myhead { position:  absolute; }
     #ABOUTWRAPPER{   position: absolute; }
 }
