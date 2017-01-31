@@ -94,9 +94,6 @@ body{
 /*   height: 600px; */
   width: 100%;
 }
-.text3{
-
-}
 
 p{
   margin-bottom: 10px;
@@ -149,9 +146,12 @@ h3{
 }
 .about{
    font-family: 'Raleway', sans-serif;
-  text-align: center;
+/*   text-align: center; */
 }
 
+.NYC{
+  text-align: left;
+}
 .text{
    font-family: 'Raleway', sans-serif;
 }
