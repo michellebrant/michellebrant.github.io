@@ -16,8 +16,8 @@
   background-color: white;
   position: relative;
   margin-top: 800px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: stylish-color-dark;
 }
 
@@ -70,17 +70,13 @@ body{
   background-color: white;
   position: relative;
   margin-top: 400px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 /*   height: 600px; */
   width: 100%;
 }
+.text3{
 
-footer{
-  text-align: center;
-  color: white;
-  font-size: 15px;
-  position: fixed;
 }
 
 p{
@@ -102,8 +98,6 @@ p{
 
 }
 
-
-
 .skills2{
   margin-top: 50px;
   color: stylish-color-dark;
@@ -114,13 +108,13 @@ p{
 .skills4{
   color: stylish-color-dark;
   font-family: 'Raleway', sans-serif;
-  font-weight: bold;
   text-align: center;
 }
 
 h1{
   margin: 0 auto;
 }
+
 h2{
   color: stylish-color-dark;
   font-family: 'Raleway', sans-serif;
@@ -128,8 +122,19 @@ h2{
   margin: 0 auto;
 }
 
-.about{
+h3{
+  color: stylish-color-dark;
+  font-family: 'Raleway', sans-serif;
   text-align: center;
+  margin: 0 auto;
+}
+.about{
+   font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.text{
+   font-family: 'Raleway', sans-serif;
 }
 .name{
   font-size: 40px;
@@ -165,13 +170,14 @@ li{
 .myskills{
   text-align: center;
 }
+
 .skills3{
   background-color: white;
   position: relative;
   margin-top: 400px;
-  // padding-top: 100px;
-  padding-bottom: 100px;
-  height: 600px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+/*   height: 600px; */
 }
 
 .tripcontainer{
@@ -218,13 +224,37 @@ li{
     );
 }
 
-.contact{
-
-  color: white;
+.footer{
+  background-color: #424242;
+  height: 75px;
   display: block;
   margin: 0 auto;
   text-align: center;
   position: relative;
+  margin-top: 200px;
+}
+
+.left{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  float: left;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.right{
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+}
+
+.iconz{
+  height: 45px;
+  width: 45px;
+  margin-left: 10px;
 }
 
 .logo{
@@ -266,6 +296,7 @@ button{
 .byemichelle{
   font-size: 17px;
   color: stylish-color-dark;
+   font-family: 'Raleway', sans-serif;
 }
 
 .himichelle{
