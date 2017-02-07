@@ -200,7 +200,7 @@ li{
   height: 290px;
   background-size: 100%;
   padding: 10px;
-  margin:10px;
+/*   margin:10px; */
 }
 
 .foodcontainer{
@@ -208,7 +208,7 @@ li{
   width: 351px;
   height: 203px;
   background-size: 100%;
-  margin:10px;
+/*   margin:10px; */
 
 }
 
@@ -217,7 +217,7 @@ li{
   width: 351px;
   height: 203px;
   background-size: 100%;
-  margin:10px;
+/*   margin:10px; */
 
 }
 
@@ -226,7 +226,7 @@ li{
   width: 351px;
   height: 203px;
   background-size: 100%;
-  margin:10px;
+/*   margin:10px; */
 
 }
 
@@ -318,14 +318,50 @@ button{
   color: stylish-color-dark;
 }
 
-.links{
+.blackhover:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+.fa-linkedin-square::before{
   margin-top: 50px;
   margin-left: 15px;
   margin-right: 15px;
-  height: 50px;
-  width: 50px;
-  color: yellow;
+  font-size: 60px;
+/*   color: black; */
+
 }
+
+.fa-instagram::before{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 60px;
+/*   color: black; */
+}
+
+.fa-github::before{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 60px;
+/*   color: black; */
+}
+
+.fa-github:hover{
+  color: black;
+}
+
+.fa-instagram:hover{
+  color: black;
+}
+
+.fa-linkedin-square:hover{
+  color: black;
+}
+
+
+
 
 @media screen
   and (min-device-width: 375px)
