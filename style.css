@@ -318,6 +318,10 @@ button{
   color: stylish-color-dark;
 }
 
+a{
+  color: black;
+}
+
 .blackhover:hover{
   color: black;
   text-decoration: underline;
@@ -349,15 +353,15 @@ button{
 }
 
 .fa-github:hover{
-  color: black;
+  color: lightblue;
 }
 
 .fa-instagram:hover{
-  color: black;
+  color: lightblue;
 }
 
 .fa-linkedin-square:hover{
-  color: black;
+  color: lightblue;
 }
 
 
