@@ -322,6 +322,10 @@ a{
   color: black;
 }
 
+.blackhover{
+  color: lightblue;
+}
+
 .blackhover:hover{
   color: black;
   text-decoration: underline;
