@@ -15,6 +15,32 @@
   width: 100%;
 }
 
+#second{
+  font-size: 40px;
+}
+
+.fa-chevron-down::before{
+  font-size: 20px;
+  margin-bottom: -100px;
+}
+
+.fa-chevron-down{
+    margin-bottom: -100px;
+}
+
+.fa::before{
+  font-size: 20px;
+  margin-bottom: -100px;
+}
+
+.fa{
+    margin-bottom: -100px;
+}
+
+#first{
+  font-size: 60px;
+}
+
 body, html {
     height:100%;
     margin:0;
@@ -25,8 +51,8 @@ body, html {
   background-color: white;
   position: relative;
   margin-top: 800px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   color: stylish-color-dark;
   width: 100%;
 }
@@ -80,8 +106,8 @@ body{
   background-color: white;
   position: relative;
   margin-top: 400px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 /*   height: 600px; */
   width: 100%;
 }
@@ -189,8 +215,8 @@ li{
   background-color: white;
   position: relative;
   margin-top: 400px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 /*   height: 600px; */
 }
 
@@ -261,7 +287,7 @@ li{
 .right{
   float: right;
   margin-top: 10px;
-  margin-bottom: 10px;
+/*   margin-bottom: 10px; */
   margin-right: 15px;
 }
 
@@ -323,7 +349,7 @@ a{
 }
 
 .blackhover{
-  color: lightblue;
+  color: #99badd;
 }
 
 .blackhover:hover{
@@ -335,7 +361,7 @@ a{
   margin-top: 50px;
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 60px;
+
 /*   color: black; */
 
 }
@@ -344,7 +370,7 @@ a{
   margin-top: 50px;
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 60px;
+
 /*   color: black; */
 }
 
@@ -352,20 +378,20 @@ a{
   margin-top: 50px;
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 60px;
+
 /*   color: black; */
 }
 
 .fa-github:hover{
-  color: lightblue;
+  color: #99badd;
 }
 
 .fa-instagram:hover{
-  color: lightblue;
+  color: #99badd;
 }
 
 .fa-linkedin-square:hover{
-  color: lightblue;
+  color: #99badd;
 }
 
 
