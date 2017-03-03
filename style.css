@@ -227,7 +227,7 @@ li{
   height: 203px;
   background-size: 100%;
   margin-left: 50px;
-  margin-top: 15px;
+
 }
 
 .mealcontainer{
@@ -244,6 +244,7 @@ li{
   width: 351px;
   height: 203px;
   background-size: 100%;
+  margin-top: 15px;
 /*   margin:10px; */
 
 }
