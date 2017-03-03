@@ -126,10 +126,17 @@ $('.mealcontainer').mouseenter(function(event) {
   description4.show();
 });
 
+$('.todocontainer').mouseenter(function(event) {
+
+  $('.todocontainer').addClass('hover')
+  description.show();
+});
+
+
 $('.todocontainer').mouseleave(function(event) {
 
   $('.todocontainer').removeClass('hover')
-  description4.hide();
+  description.hide();
 });
 
 });

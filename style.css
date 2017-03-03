@@ -222,10 +222,9 @@ li{
 
 .todocontainer{
   background: url("todo.png") no-repeat 55%;
-  width: 502px;
-  height: 290px;
+  width: 351px;
+  height: 203px;
   background-size: 100%;
-  padding: 10px;
 /*   margin:10px; */
 }
 
