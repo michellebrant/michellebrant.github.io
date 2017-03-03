@@ -133,6 +133,7 @@ p{
   color: stylish-color-dark;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  position: center;
 }
 
 h1{
@@ -211,21 +212,13 @@ li{
 /*   height: 600px; */
 }
 
-.tripcontainer{
-  background: url("mytrip.jpg") no-repeat 55%;
-  width: 502px;
-  height: 290px;
-  background-size: 100%;
-  padding: 10px;
-/*   margin:10px; */
-}
-
 .todocontainer{
   background: url("todo.png") no-repeat 55%;
   width: 351px;
   height: 203px;
   background-size: 100%;
-/*   margin:10px; */
+  margin-left: 50px;
+  margin-top: 15px;
 }
 
 .foodcontainer{
@@ -233,8 +226,8 @@ li{
   width: 351px;
   height: 203px;
   background-size: 100%;
-/*   margin:10px; */
-
+  margin-left: 50px;
+  margin-top: 15px;
 }
 
 .mealcontainer{
@@ -406,4 +399,6 @@ a{
     .mytitle{ padding-top:  0px;
           }
     .myhead{ background-color: #0277bd; }
+    .todocontainer { margin-left:0px; }
+    .foodcontainer { margin-left:0px; }
 }
