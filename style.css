@@ -399,6 +399,7 @@ a{
     .footer{ height: 80px; }
     .mytitle{ padding-top:  0px;
           }
+    .footer { display: none; }
     .myhead{ background-color: #0277bd; }
     .todocontainer { margin-left:0px; }
     .foodcontainer { margin-left:0px; }
